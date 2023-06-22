@@ -1,0 +1,5 @@
+---
+"input:toggle_workflows": cmd-r
+"input:search_command_history": cmd-e
+"terminal:ask_ai_assistant": none
+"ai_assistant_panel:reset_context": none
